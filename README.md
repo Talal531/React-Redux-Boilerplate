@@ -8,7 +8,7 @@ Run the followning commands
 clone this repositry
 
 ```
-git clone https://github.com/Talal531/react-Redux-Boilerplate.git ```
+git clone https://github.com/Talal531/react-Redux-Boilerplate.git 
 
 npm install
 
